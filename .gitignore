@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Banish Apple!
+.DS_Store
+
+# Dirs
+flagged/
