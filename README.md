@@ -7,6 +7,8 @@
 
 <img src="resources/planets.png" width="800" title="Jupiter Earth Stylization results"> 
 
+---
+
 ## Python dependencies
 
 ```sh
@@ -33,9 +35,15 @@ Open the url in a browser and you should be greeted with a webapp built with `gr
 
 <img src="resources/sample.png" width="800" title="Sample WebApp"> 
 
+<br />
+
 By adding a `content image`, `style image` and choosing the appropriate algorithm, you can style your image
 
+<br />
+
 <img src="resources/peak.png" width="800" title="K2 + Mars Sample"> 
+
+<br />
 
 ---
 
