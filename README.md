@@ -1,15 +1,3 @@
----
-title: Photo-Realistic-Image-Stylization
-emoji: 🤯
-colorFrom: indigo
-colorTo: indigo
-sdk: gradio
-sdk_version: 3.4.1
-app_file: app.py
-pinned: false
-license: 
----
-
 [![License CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC4.0-blue.svg)](https://raw.githubusercontent.com/NVIDIA/FastPhotoStyle/master/LICENSE.md)
 
 # Photo-Realistic-Image-Stylization
@@ -18,6 +6,8 @@ license:
 <br />
 
 <img src="resources/planets.png" width="800" title="Jupiter Earth Stylization results"> 
+
+---
 
 ## Python dependencies
 
@@ -45,9 +35,15 @@ Open the url in a browser and you should be greeted with a webapp built with `gr
 
 <img src="resources/sample.png" width="800" title="Sample WebApp"> 
 
+<br />
+
 By adding a `content image`, `style image` and choosing the appropriate algorithm, you can style your image
 
+<br />
+
 <img src="resources/peak.png" width="800" title="K2 + Mars Sample"> 
+
+<br />
 
 ---
 
