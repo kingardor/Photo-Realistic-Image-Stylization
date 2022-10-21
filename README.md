@@ -5,6 +5,14 @@
 > Whitening and Colorization Transform from the paper "A Closed-form Solution to Photorealistic Image Stylization"
 <br />
 
+---
+
+## 🤗 HuggingFace Demo
+
+[Try it!](https://huggingface.co/spaces/kn1ghtf1re/Photo-Realistic-Image-Stylization)
+
+---
+
 <img src="resources/planets.png" width="800" title="Jupiter Earth Stylization results"> 
 
 ---
